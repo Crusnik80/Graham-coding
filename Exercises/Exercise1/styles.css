@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+}
+
+#mainPicture {
+  width: 860;
+  height: 560;
+}
+
+div > img {
+  width: 320;
+  height: 150;
+}
+.bigg {
+  width: 98vw;
+}

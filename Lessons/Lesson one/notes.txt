@@ -28,3 +28,18 @@ CSS
     'KEYWORD: VALUE;'
     'KEYWORD: VALUE;'
     'KEYWORD: VALUE;'
+
+-----------------------------------------------------------
+
+CSS
+the extension is .css
+the formate is 
+selector {
+    Arrtibute : vaule;
+}
+selector :you selected the item via name,element and id
+
+container like elements:
+div : Anything
+span : line of text that not a paragraph
+section :use to parant to larger amont of dif elements
